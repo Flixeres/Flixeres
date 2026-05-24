@@ -94,7 +94,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/flixeres)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Flixeres)
-[![YouTube](https://img.shields.io/badge/YouTube_Lua_Cisco-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FlixeresHVH)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FlixeresHVH)
 
 ---
 
